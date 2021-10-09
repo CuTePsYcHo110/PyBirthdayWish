@@ -3,17 +3,7 @@
 <img src="image/PyBirthdayWish.gif" align="center" alt="PyBirthdayWish GIF" />
 <h2 align="center">Wish your loved one in a pythonic way</h2>
 <p align="center">
-<a href="https://youtu.be/Lpj73qkxnqI">
-<img src="https://img.shields.io/youtube/views/Lpj73qkxnqI?style=social" alt="views" />
-</a>
-<a href="https://youtu.be/Lpj73qkxnqI">
-<img src="https://img.shields.io/youtube/likes/Lpj73qkxnqI?style=social" alt="likes" />
-</a>
-<a href="https://youtu.be/Lpj73qkxnqI">
-<img src="https://img.shields.io/youtube/comments/Lpj73qkxnqI?style=social" alt="comments" />
-</a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=hemantapkh.pybirthdaywish" alt="visitors" />
-</p>
+
 
 </p>
 
