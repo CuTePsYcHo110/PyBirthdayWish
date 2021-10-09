@@ -1,11 +1,5 @@
 
 </a>
-<a href="https://github.com/hemantapkh/pybirthdaywish/pulls">
-<img src="https://img.shields.io/github/issues-pr/hemantapkh/pybirthdaywish?style=flat-square" alt="Pull Requests"/>
-</a>
-<a href="https://www.youtube.com/c/H9TechYouTube?sub_confirmation=1">
-<img src="https://img.shields.io/badge/YouTube-H9-red?style=flat-square" alt="Subscribe my channel H9"/>
-</a>
 <img src="image/PyBirthdayWish.gif" align="center" alt="PyBirthdayWish GIF" />
 <h2 align="center">Wish your loved one in a pythonic way</h2>
 <p align="center">
