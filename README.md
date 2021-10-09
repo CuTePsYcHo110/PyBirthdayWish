@@ -1,8 +1,4 @@
-<p align="center">
-<img src="https://img.shields.io/badge/platform-cross-blue?style=flat-square" alt="platform" />
-<a href="https://github.com/hemantapkh/pybirthdaywish/blob/master/LICENSE">
-<img src="https://img.shields.io/github/license/hemantapkh/pybirthdaywish?style=flat-square" alt="licence" />
-</a>
+
 <a href="https://github.com/hemantapkh/pybirthdaywish/fork">
 <img src="https://img.shields.io/github/forks/hemantapkh/pybirthdaywish.svg?style=flat-square" alt="Forks"/>
 </a>
