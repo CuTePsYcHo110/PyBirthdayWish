@@ -1,12 +1,4 @@
 
-<a href="https://github.com/hemantapkh/pybirthdaywish/fork">
-<img src="https://img.shields.io/github/forks/hemantapkh/pybirthdaywish.svg?style=flat-square" alt="Forks"/>
-</a>
-<a href="https://github.com/hemantapkh/pybirthdaywish/stargazers">
-<img src="https://img.shields.io/github/stars/hemantapkh/pybirthdaywish?style=flat-square" alt="Stars"/>
-</a>
-<a href="https://github.com/hemantapkh/pybirthdaywish/issues">
-<img src="https://img.shields.io/github/issues/hemantapkh/pybirthdaywish?style=flat-square" alt="Issues"/>
 </a>
 <a href="https://github.com/hemantapkh/pybirthdaywish/pulls">
 <img src="https://img.shields.io/github/issues-pr/hemantapkh/pybirthdaywish?style=flat-square" alt="Pull Requests"/>
